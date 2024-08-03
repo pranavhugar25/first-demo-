@@ -1,3 +1,4 @@
-# first-demo-
-this is my first repository, which is an demo. 
+# First demo
+This is my first repository, Which is an demo. 
+<br>
 My name is Pranav Hugar.
